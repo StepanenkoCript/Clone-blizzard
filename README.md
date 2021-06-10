@@ -11,7 +11,7 @@ I tried to make it as similar as possible both in colors, as in the animations o
 
 **** IMPORTANT:*******
 
-1 - Since it was one of my first exercises, it is not responsible and not mobile first :( im sorry
+1 - Since it was one of my first exercises, it is not responsive and not mobile first :( im sorry
 
 2 - To visualize correctly this webpage, you MUST use a desktop using 1920x1080 resolution. Im sorry for this requirement, but again: that was my second clone and the point here was improve css and html skills
 
